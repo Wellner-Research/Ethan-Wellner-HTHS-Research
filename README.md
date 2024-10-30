@@ -6,3 +6,4 @@ Project Information:
 
 Image AI Models:
 Control (no adverserial): https://teachablemachine.withgoogle.com/models/9xGhfNNrN/
+10% White adverserial: https://teachablemachine.withgoogle.com/models/JozAElpMj/
