@@ -13,3 +13,6 @@ Control (no adverserial): https://teachablemachine.withgoogle.com/models/9xGhfNN
 20% White Adverserial: https://teachablemachine.withgoogle.com/models/hOF5VrWlu/
 
 30% White Adverserial: https://teachablemachine.withgoogle.com/models/OZazpzfwN/
+
+40% White adverserial: https://teachablemachine.withgoogle.com/models/k2kpKAvl1/
+
