@@ -24,3 +24,5 @@ Control (no adverserial): https://teachablemachine.withgoogle.com/models/9xGhfNN
 
 ------------------------------------------------------------------------------------------
 10% Colored Adverserial: https://teachablemachine.withgoogle.com/models/cVw61WYXt/
+
+20% Colored Adverserial: https://teachablemachine.withgoogle.com/models/d02yqFWqh/
