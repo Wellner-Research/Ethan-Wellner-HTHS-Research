@@ -1,12 +1,12 @@
 Prerequisites:
 Xampp (with mysql and apache) - Running the teachable machine with image upload and add_data.php
-Python (I used vscode) with opencv.py installed - creating image adverserial
+Python (I used vscode) with opencv.py installed - creating image Adversarial
 
 Project Information:
 
 Image AI Models:
 
-Control (no adverserial): https://teachablemachine.withgoogle.com/models/9xGhfNNrN/
+Control (no Adversarial): https://teachablemachine.withgoogle.com/models/9xGhfNNrN/
 
 ------------------------------------------------------------------------------------------
 
@@ -33,5 +33,5 @@ Control (no adverserial): https://teachablemachine.withgoogle.com/models/9xGhfNN
 
 50% Colored Adversarial: https://teachablemachine.withgoogle.com/models/okH8CyEWl/
 
-75% Colored Adverserial: https://teachablemachine.withgoogle.com/models/pIDNwDID5/
+75% Colored Adversarial: https://teachablemachine.withgoogle.com/models/pIDNwDID5/
 
