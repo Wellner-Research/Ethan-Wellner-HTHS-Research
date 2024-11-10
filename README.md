@@ -30,3 +30,5 @@ Control (no adverserial): https://teachablemachine.withgoogle.com/models/9xGhfNN
 30% Colored Adverserial: https://teachablemachine.withgoogle.com/models/FAhLYT5kv/
 
 40% Colored Adverserial: https://teachablemachine.withgoogle.com/models/SiyEYsLzu/
+
+50% Colored Adverserial: https://teachablemachine.withgoogle.com/models/okH8CyEWl/
